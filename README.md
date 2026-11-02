@@ -1,3 +1,4 @@
+![Joshua Ane — Computer Science & Systems](./joshua-github-banner.svg)
 ## Hi there 👋
 
 <!--
