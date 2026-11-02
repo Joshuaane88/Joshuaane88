@@ -1,1 +1,21 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Joshua Ane — Computer Science and Systems Engineering</title>
+<desc id="desc">Minimal editorial GitHub banner in dark charcoal with oxblood geometric accents and warm ivory lettering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#252523"/><stop offset="1" stop-color="#1d1d1c"/></linearGradient>
+  <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B76E80"/><stop offset="1" stop-color="#762F3D"/></linearGradient>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect x="0" y="0" width="7" height="320" fill="#762F3D"/>
+<path d="M 780 365 C 842 153 1000 100 1228 95" stroke="#762F3D" stroke-width="90" fill="none" opacity=".24"/>
+<path d="M 855 364 C 918 178 1050 152 1223 150" stroke="url(#arc)" stroke-width="2" fill="none" opacity=".9"/>
+<circle cx="1040" cy="114" r="128" stroke="#C9C2B6" stroke-opacity=".17" stroke-width="1" fill="none"/>
+<circle cx="1040" cy="114" r="90" stroke="#C9C2B6" stroke-opacity=".11" stroke-width="1" fill="none"/>
+<path d="M 890 40 H 1180 M 890 274 H 1180" stroke="#C9C2B6" stroke-opacity=".14" stroke-width="1"/>
+<rect x="68" y="54" width="34" height="3" fill="#B76E80"/>
+<text x="115" y="61" fill="#D7A8B2" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3.1" font-weight="700">COMPUTER SCIENCE  /  SYSTEMS &amp; AI</text>
+<text x="66" y="161" fill="#F3EFE6" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="76" letter-spacing="-2.2">Joshua Ane</text>
+<path d="M 68 188 H 676" stroke="#7D4A56" stroke-width="1.5"/>
+<text x="68" y="229" fill="#D4CCC2" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing=".2">Building software. Understanding the systems behind it.</text>
+<text x="69" y="272" fill="#ADAAA4" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.2">SYRACUSE UNIVERSITY  ·  C / C++  ·  AI INFRASTRUCTURE</text>
+</svg>
